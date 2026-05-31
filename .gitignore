@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+Packages/
+
+# Lock files
+pnpm-lock.yaml
+package-lock.json
+wally.lock
+
+# Rojo
+sourcemap.json
+
+# Roblox
+*.rbxl
+*.rbxlx
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
